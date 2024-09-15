@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\repos\srv\cheatBase\main.cpp(14,5): error C2664: "void OutputDebugStringW(LPCWSTR)": невозможно преобразовать аргумент 1 из "const char [24]" в "LPCWSTR"
+D:\repos\srv\cheatBase\main.cpp(14,23): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : см. объявление "OutputDebugStringW"
+D:\repos\srv\cheatBase\main.cpp(14,5): message : при попытке сопоставить список аргументов "(const char [24])"

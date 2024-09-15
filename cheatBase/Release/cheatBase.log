@@ -1,0 +1,25 @@
+﻿  main.cpp
+D:\repos\srv\cheatBase\Vectors\Vectors.h(106,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\repos\srv\cheatBase\Vectors\Vectors.h(107,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\repos\srv\cheatBase\aimbot.hpp(13,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\repos\srv\cheatBase\aimbot.hpp(14,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\repos\srv\cheatBase\aimbot.hpp(49,91): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+D:\repos\srv\cheatBase\aimbot.hpp(175,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\repos\srv\cheatBase\aimbot.hpp(176,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\repos\srv\cheatBase\aimbot.hpp(178,121): warning C4244: аргумент: преобразование "double" в "const float", возможна потеря данных
+D:\repos\srv\cheatBase\aimbot.hpp(178,50): warning C4244: аргумент: преобразование "double" в "const float", возможна потеря данных
+D:\repos\srv\cheatBase\esp.hpp(19,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\repos\srv\cheatBase\esp.hpp(20,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\repos\srv\cheatBase\esp.hpp(22,115): warning C4244: аргумент: преобразование "double" в "const float", возможна потеря данных
+D:\repos\srv\cheatBase\esp.hpp(22,44): warning C4244: аргумент: преобразование "double" в "const float", возможна потеря данных
+D:\repos\srv\cheatBase\esp.hpp(107,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\repos\srv\cheatBase\movement.hpp(7,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\repos\srv\cheatBase\movement.hpp(8,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\repos\srv\cheatBase\menu.hpp(137,32): warning C4018: <: несоответствие типов со знаком и без знака
+D:\repos\srv\cheatBase\menu.hpp(150,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  1 of 1637 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  cheatBase.vcxproj -> D:\repos\srv\Release\cheatBaseqqq.dll

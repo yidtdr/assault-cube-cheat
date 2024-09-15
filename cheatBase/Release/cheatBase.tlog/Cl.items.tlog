@@ -1,0 +1,14 @@
+D:\repos\srv\cheatBase\imgui\imgui.cpp;D:\repos\srv\cheatBase\Release\imgui.obj
+D:\repos\srv\cheatBase\imgui\imgui_impl_opengl2.cpp;D:\repos\srv\cheatBase\Release\imgui_impl_opengl2.obj
+D:\repos\srv\cheatBase\imgui\imgui_impl_win32.cpp;D:\repos\srv\cheatBase\Release\imgui_impl_win32.obj
+D:\repos\srv\cheatBase\imgui\imgui_demo.cpp;D:\repos\srv\cheatBase\Release\imgui_demo.obj
+D:\repos\srv\cheatBase\imgui\imgui_draw.cpp;D:\repos\srv\cheatBase\Release\imgui_draw.obj
+D:\repos\srv\cheatBase\imgui\imgui_tables.cpp;D:\repos\srv\cheatBase\Release\imgui_tables.obj
+D:\repos\srv\cheatBase\imgui\imgui_widgets.cpp;D:\repos\srv\cheatBase\Release\imgui_widgets.obj
+D:\repos\srv\cheatBase\main.cpp;D:\repos\srv\cheatBase\Release\main.obj
+D:\repos\srv\cheatBase\memory\memory.cpp;D:\repos\srv\cheatBase\Release\memory.obj
+D:\repos\srv\cheatBase\minhook\src\buffer.c;D:\repos\srv\cheatBase\Release\buffer.obj
+D:\repos\srv\cheatBase\minhook\src\hde\hde32.c;D:\repos\srv\cheatBase\Release\hde32.obj
+D:\repos\srv\cheatBase\minhook\src\hde\hde64.c;D:\repos\srv\cheatBase\Release\hde64.obj
+D:\repos\srv\cheatBase\minhook\src\hook.c;D:\repos\srv\cheatBase\Release\hook.obj
+D:\repos\srv\cheatBase\minhook\src\trampoline.c;D:\repos\srv\cheatBase\Release\trampoline.obj
